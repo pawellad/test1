@@ -1,0 +1,2 @@
+#testowy pli
+summary(x)
